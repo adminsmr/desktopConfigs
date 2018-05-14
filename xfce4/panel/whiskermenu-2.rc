@@ -1,7 +1,7 @@
 favorites=exo-terminal-emulator.desktop,exo-file-manager.desktop,exo-mail-reader.desktop,exo-web-browser.desktop
 recent=users.desktop,xfce4-sensors.desktop,nm-connection-editor.desktop,ibus-setup.desktop,brick.desktop,Thunar.desktop
 button-title=Приложения
-button-icon=xfce4-whiskermenu
+button-icon=/usr/share/icons/UKMegapolis/ukm_fund.png
 button-single-row=false
 show-button-title=false
 show-button-icon=true
